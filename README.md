@@ -47,6 +47,6 @@ Para ejecutar el proyecto, sigue estos pasos:
 * Configura las dependencias y ajusta la configuración según sea necesario.
 * Ejecuta la aplicación con la clase IniciarApp y siga las instrucciones en pantalla.
 
-## Autores
-| [](https://github.com/tsanchezru) |
-| :---: | :---: | :---: |
+## Autor
+| (https://github.com/tsanchezru) |
+| :---: |
