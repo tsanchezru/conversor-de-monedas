@@ -48,5 +48,5 @@ Para ejecutar el proyecto, sigue estos pasos:
 * Ejecuta la aplicación con la clase IniciarApp y siga las instrucciones en pantalla.
 
 ## Autor
-| (https://github.com/tsanchezru) |
-| :---: |
+- **Nombre:** Teodomiro Sanchez
+- **GitHub:**  https://github.com/tsanchezru
